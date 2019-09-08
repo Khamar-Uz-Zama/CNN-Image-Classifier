@@ -1,2 +1,1 @@
-# CNN-Image-Classifier
-Basic image classifier
+Basic MNIST image classifier
